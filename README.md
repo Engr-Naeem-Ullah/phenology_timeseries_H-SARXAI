@@ -9,7 +9,7 @@ Contact us for dataset usage permissions before using the provided data.
 Citation:
 This work is currently under review. If you find it useful, please acknowledge it as:
 
-Authors: Naeem Ullah, A. M. Chac´on-Maldonado, Francisco Mart´ınez- ´Alvarez, Ivanoe De Falco, Giovanna Sannino
+Authors: Naeem Ullah, A. M. Chacon-Maldonado, Francisco Martinez-Alvarez, Ivanoe De Falco, Giovanna Sannino
 
 Title: A Novel Knowledge Distillation and Hybrid Explainability Approach for Phenology Stage Classification from Multi-Source Time Series
 
